@@ -1,2 +1,0 @@
-##Project 6: Explore and Summarize Data
-We are going to investigate the Red Wine dataset on physicochemical properties and quality ratings. By analyzing a dataset with 1,599 red wine samples from the north of Portugal. Each wine sample comes with a quality rating from 1 to 10, and results from several physical chemical tests,like: alcohol content, acidity level and residual sugar. There are 11 columns describing their chemical properties, and a column for quality ratings.
